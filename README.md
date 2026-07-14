@@ -5,24 +5,28 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chizobaebuka" alt="chizobaebuka" /></a> </p>
 
-- 🔭 I’m currently working on **ConnectX**
+- 🚀 Featured work:
+  - [WalletPay](https://github.com/chizobaebuka/WalletPay) — Fintech wallet & payments platform with wallet transfers, Paystack integration, BullMQ background jobs, and real-time balance updates via Socket.IO.
+  - [pay-orchestrate](https://github.com/chizobaebuka/pay-orchestrate) — Payment orchestration service unifying Stripe, Paystack, and Flutterwave behind one API, with idempotent processing and independent webhook reconciliation. ([Live demo](https://pay-orchestrate.onrender.com))
+  - [p2vest_Task_Api](https://github.com/chizobaebuka/p2vest_Task_Api) — Multi-user task management API with role-based access control, tagging, comments, and real-time notifications.
+  - [Library_Management_BE](https://github.com/chizobaebuka/Library_Management_BE) — REST API for library book/user management with JWT auth and paginated search.
+  - [Scello-BE](https://github.com/chizobaebuka/Scello-BE) — Mini e-commerce product API with full CRUD, pagination/filtering/search, JWT auth, and Swagger docs.
 
-- 🌱 I’m currently learning **NestJs, Prisma, TypeOrm**
+- 🔭 I'm currently working on **ConnectX**
 
-- 👯 I’m looking to collaborate on **Nodejs, Express, Postgres, MongoDB etc...**
+- 🌱 I'm currently learning **NestJs, Prisma, TypeOrm**
+
+- 👯 I'm looking to collaborate on **Nodejs, Express, Postgres, MongoDB etc...**
 
 - 👨‍💻 All of my projects are available at [https://chizoba-martins-portfolio.netlify.app/](https://chizoba-martins-portfolio.netlify.app/)
 
 - 💬 Ask me about **Express, Postgres, Nodejs, Typescript, Javascript**
 
 - 📫 How to reach me **ebukachizoba@gmail.com**
-
-- ⚡ Fun fact **Did you know? The bench press, one of the most popular gym exercises, has been around since the early 20th century.**
-
-<h3 align="left">Connect with me:</h3>
+- <h3 align="left">Connect with me:</h3>h3>
 <p align="left">
-<a href="https://linkedin.com/in/chukwuebuka-chizoba-7a1354126/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chukwuebuka-chizoba-7a1354126/" height="30" width="40" />
+    <a href="https://linkedin.com/in/chukwuebuka-chizoba-7a1354126/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chukwuebuka-chizoba-7a1354126/" height="30" width="40" />
 </a>
 </p>
 
